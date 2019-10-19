@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+.reveal body {
+  text-align: left;
+  font-family: Cousine, 'cwTeXYen', sans-serif;
+  font-size: 14;
+  font-weight: 300;
+}
+
+.reveal h1 {
+  color: #ea8a8a;
+  text-align: left;
+  font-family: Cousine, 'cwTeXYen', sans-serif;
+  font-size: 17;
+  font-weight: 500;
+}
+
+.reveal h2 {
+  color: #ebd5d5;
+  text-align: left;
+  font-family: Cousine, 'cwTeXYen', sans-serif;
+  font-size: 16;
+}
+
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #eee8d5;
+  font-family: Cousine, 'cwTeXYen', sans-serif;
+  line-height: 0.9em;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  text-shadow: none; }
+
+.reveal .slides {
+  font-family: Cousine, 'cwTeXYen', sans-serif;
+  text-align: left;
+}
+
+
+.reveal section img { 
+  background:none; 
+  border:none; 
+  box-shadow:none; 
+}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:20%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: left;
+  z-index:-10;
+  width:80%;
+}
+
+/* focus point for presentation */
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.png), auto !important;} /* End http://www.cursors-4u.com */

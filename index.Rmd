@@ -1,0 +1,384 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    transition: fade
+    theme: league
+    center: true
+    width: "100%"
+    height: "100%"
+    margin: 0
+    minScale: 1
+    maxScale: 1
+    incremental: false
+css: style.css
+---
+
+# 心理科學再現危機與因應方案 {data-background="https://cdn.cos.io/media/images/amazon-research-3.original.jpg"}
+
+## 自我介紹
+
+陳紹慶  
+慈濟大學人類發展與心理學系專任副教授
+
+<img src="https://osf.io/static/img/circle_logo.png"  height="20" width="20"> <small>開放科學中心大使</small></br>
+<img src="https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png"  height="20" width="20"> 
+<small>心理科學加速器創始成員；訓練委員會助理監督</small></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Website11.png"  height="20" width="20"> [<small>scchen.com</small>](http://scchen.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>  <small>[Fork my slides on Github](https://github.com/SCgeeker/Talk_PsyCrisis)</small>
+
+# 2011: First year of Replication Crisis in Psycho
+
+## Diederik Stapel
+
+<div id="left">
+![](foto diederik.gif)
+<small>Diederik Stapel</small>
+</div>
+
+<div id="right">
+Exposed by 3 junior researchers @ TU
+
+Investigated by 3 universities
+
+58 papers retracted
+
+10 PhD dissertations were polluted
+
+</div>
+
+## Daryl Bem's Feeling the Future
+
+<div id="left">
+![](http://elojocritico.info/wp-content/uploads/2013/11/DARYL.jpg){width=60%}
+<small>Daryl Bem</small>
+</div>
+
+<div id="right">
+![](https://www.sott.net/image/s2/53970/full/DJB_work.jpg){ width=150% }
+</div>
+
+## False-positive psychology
+
+![](FR_paper.png)
+
+![](FR_authors.png)
+
+----
+
+![](Simmons2011_table1.png)
+
+----
+
+<div id="left">
+![](http://psych.cf.ac.uk/images_new/people/200/chambersc1.jpg)
+<small>Chris Chambers</small>
+</div>
+
+<div id="right">
+![](7sins.png){ width=70% }
+</div>
+
+## Today I will talk about...
+
+- The Sin of Bias
+- The sin of Hidden Flexibility
+- The sin of Unreliability
+- The sin of Corruptibility
+
+# The Sin of Bias
+
+## What is False-Positive
+
+|![](https://i.stack.imgur.com/vKXmj.jpg)|![](http://www.chioka.in/wp-content/uploads/2013/08/Metrics-Table.png)|
+|---|---|
+
+## Prevalence of False-Positive 
+
+|<small>Fanelli(2010)</small>|<small>Fanelli(2012)</small>|
+|:---:|:---:|
+|![](https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0010068.g001&size=large)|![](https://i.imgur.com/42iT8z6.png)|
+
+----
+
+**If we wish every result is replicable, a science at least has the statistical power of 80%.**
+
+## The truth is ... [(Smaldino and McElreath, 2016)](https://doi.org/10.1098/rsos.160384)
+
+![](https://royalsocietypublishing.org/cms/attachment/40d3231a-797c-4533-8111-1aeaed6c094f/rsos160384f01.jpg){width=150%}
+
+# The sin of Hidden Flexibility
+
+## Controversy surrounding Power Posing 
+
+<div id="left">
+![](Cuddy_TED.jpg)
+<small>Amy Cuddy @ TED talk</small>
+</div>
+<div id="right">
+
+**Take two minutes, you will...**
+
+| Boost self-confidence |
+| --- |
+| Intention to take risks |
+| More Testosterone |
+| Less Cortisone |
+
+</div>
+
+----
+
+**Good theory, Bad evidence**
+
+- Failed replications (Ranehill, 2015)
+- Publication bias (Carney, Cuddy, & Yap, 2015; Simmons & Simonsohn, 2017)
+- Sloopy methods: **p-hacking(Cherry picking)** and **HARKing** (Bailey, LaFrance, & Dovidio, 2017; Cesario, Jonas, & Carney, 2017; Gronau et al., 2017; Jonas et al., 2017; Klaschinski, Schnabel, & Schröder-Abé, 2017; Latu, Duffy, Pardal, & Alger, 2017; Ronay, Tybur, van Huijstee, & Morssinkhof, 2016) 
+- Till present, there is a reproducible but slight **feeling of power**.
+
+----
+
+<div id="left">
+![](Cuddy_TED.jpg)
+<small>Amy Cuddy @ TED talk</small>
+</div>
+<div id="right">
+
+**Take two minutes, you will...**
+
+| Boost self-confidence | true positive but tiny effect |
+| --- | --- |
+| Intention to take risks | false positive |
+| More Testosterone | false positive |
+| Less Cortisone | false positive |
+
+</div>
+
+## When we focus on positive results only...
+
+![](TW_QRP_report.png){width=70%}
+
+# The sin of Unreliability
+
+## What\'s wrong with Daryl Bem\'s study
+
+<div id="left">
+![](http://elojocritico.info/wp-content/uploads/2013/11/DARYL.jpg){width=60%}
+<small>Daryl Bem</small>
+</div>
+
+<div id="right">
+![](https://www.sott.net/image/s2/53970/full/DJB_work.jpg){ width=150% }
+</div>
+
+----
+
+![](Bem_procedure.png)
+
+Source: https://youtu.be/42QuXLucH3Q
+
+----
+
+![](Bem_material.png)
+
+Source: https://youtu.be/42QuXLucH3Q
+
+----
+
+![](Bem_argued01.png)
+
+![](Bem_argued02.png)
+
+## Criticisms
+
+JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423#s5))
+
+**HARKing** (Hypothesizing After the Results are Known; Kerr, 1998)
+
+----
+
+<div id="left">
+![](GPPJ_cover.jpg)
+![](Compeat_cover.jpg)
+</div>
+
+<div id="right">
+![](Bem_teach_Harking.png){width=90%}
+</div>
+
+
+# The sin of Corruptibility
+
+## A Discredited Food Psychologist
+
+<div id="left">
+![](https://upload.wikimedia.org/wikipedia/en/1/1e/BRIAN435S6556_copy.jpg)
+</div>
+<div id="right">
+- PI of Cornell Food and Brand Lab (2005-2018)
+- 2007 IG Nobel Prize: [bottomless bowls study](https://onlinelibrary.wiley.com/doi/full/10.1038/oby.2005.12)
+- Author of **Mindless Eating**(2005) and Slim by Design(2014)
+- Smater Lunchrooms Project (NIFA funded, since 2012)
+- **Till Sep. 2018, 22 papers retracted and 15 corrected.**
+</div>
+
+----
+
+**Wansink boasted how to publish paper by QRPs**
+
+![](pizzagate_start.png){width=50%}    
+<small>(Original date: [2016/11/21](https://web.archive.org/web/20170312041524/http:/www.brianwansink.com/phd-advice/the-grad-student-who-never-said-no)) </small>
+
+----
+
+**[GRIM](https://peerj.com/preprints/2064/)**: A tool to check the spooky roundings of scaling data, less than 100 samples.
+
+| ![James Heathers](https://miro.medium.com/fit/c/256/256/1*wHWnMXPzrlaDKjYjdWx0Gg.jpeg) | ![Nick Brown](http://www.meta-systems.eu/images/nick.jpg) | ![Jordan Anaya](https://pbs.twimg.com/profile_images/702907922339262464/BnI1G8HM_400x400.jpg) | ![Tim van der Zee](http://www.timvanderzee.com/inhoud/uploads/2016/12/Tim-van-der-Zee.png){width=30%} |
+|:---:|:---:|:---:|:---:|
+|James Heathers|Nick Brown|Jordan Anaya|Tim van der Zee|
+
+----
+
+4 Wansink-boasted papers had QRPs:  
+
+![](http://www.timvanderzee.com/inhoud/uploads/2017/03/errors-overlay.jpg)
+
+----
+
+## [Retractions before Wansink\'s resign](https://en.wikipedia.org/wiki/Brian_Wansink#Further_corrections_and_retractions)
+
+![](Wansink_Retrations.png)
+
+## More truth to be revealed
+
+- 2007 Ig Nobel: [Wansink, Painter, and North (2005); bottomless bowls study](https://onlinelibrary.wiley.com/doi/full/10.1038/oby.2005.12)
+
+- [Audit by James Heathers](https://medium.com/@jamesheathers/sprite-case-study-5-sunset-for-souper-man-ee898b6af9f5)
+
+- No further investigation since Wansink claimed his resignment.
+
+#
+
+![](endofWorld.jpg){width=90%}
+
+# Solution: 7 steps to Open Science
+
+----
+
+![](OSC_flyer.png)
+
+## [實踐研究過程透明化七步驟](https://osf.io/hktmf/)
+
+1. 在公開存放庫創建研究專案預置空間
+2. 研究專案[預先註冊](https://youtu.be/jStcWBSeKUA)(Preregistration);或投稿[註冊報告](https://cos.io/rr/)(Registered Report)
+3. 開放研究材料(Open Materials)
+4. 開放研究資料(Open Data)
+5. 開放可重製程式碼(Reproducible Code, Open Source)
+6. 開放取用(Open Access): 同儕審稿前於**預印本平台**公開手稿，接受後依版權協議公開全文。
+7. 開放同儕審稿(Open Peer Review)
+
+# 
+
+|[![](https://blogs.library.duke.edu/data/files/2017/08/COS-Logo-small-1-768x768.png){width=33%}](https://osf.io/)|[![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/232px-Font_Awesome_5_brands_github.svg.png)](https://github.com)|[![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/200px-GitLab_Logo.svg.png)](https://about.gitlab.com/)|
+|:---:|:---:|:---:|
+|[使用指南](https://scchen.com/zh/post/open-science-framework.zh/)|||
+
+# 
+
+|![](https://mfr.osf.io/export?url=https://osf.io/sxn73/?action=download%26mode=render%26direct%26public_file=True&initialWidth=808&childId=mfrIframe&parentTitle=OSF+%7C+preregistered_large_color.png&parentUrl=https://osf.io/sxn73/&format=2400x2400.jpeg)|
+|---|
+
+## 預先註冊與註冊報告
+
+![](Pu2019.png)
+
+## 預先註冊是什麼？
+
+- 研究開始執行前註記備份日期的計劃文件。
+
+- 計劃文件詳述到完成發表前，執行細節的行動標準、紀錄方式及公開管道。
+
+
+## 接受註冊報告的期刊
+
+- COS[介紹專頁](https://cos.io/rr/)及[公開表格](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0)；目前全球各領域已超過200本期刊接受一般或特定目的的註冊報告。
+
+- 中華心理學刊也接受註冊報告；目前投稿狀況未知。
+
+## 如何進行？
+
+<iframe  width="420" height="345" src="https://www.youtube.com/embed/jStcWBSeKUA" data-autoplay></iframe>
+
+## 常見的誤會
+
+- 公開紀錄會侵犯參與者個人隱私嗎？
+  - 紀錄只限能重製分析結果的資訊，未在分析計劃之內的無關或非必要之個人隱私資料，研究者原則上不必亦不得收集。
+
+- 公開的計畫書會被其他學者搶先完成嗎？
+  - 只要是以預先註冊/註冊報告模式完成的計劃，必須檢核是否依照開始前的計劃執行。公開計劃的研究者在完成計劃之前，有該項計劃的著作權。
+
+
+#
+
+|![](https://mfr.osf.io/export?url=https://osf.io/u63nr/?action=download%26mode=render%26direct%26public_file=True&initialWidth=808&childId=mfrIframe&parentTitle=OSF+%7C+materials_large_color.png&parentUrl=https://osf.io/u63nr/&format=2400x2400.jpeg)|![](https://mfr.osf.io/export?url=https://osf.io/hr67w/?action=download%26mode=render%26direct%26public_file=True&initialWidth=808&childId=mfrIframe&parentTitle=OSF+%7C+data_large_color.png&parentUrl=https://osf.io/hr67w/&format=2400x2400.jpeg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/240px-Open_Source_Initiative_keyhole.svg.png){width=60%}|
+|---|---|---|
+
+## 公開存放庫一站達成
+
+<small>範例：[物件方向效應跨語言量測專案](https://osf.io/e428p/)</small>
+
+![](PSA002_open.png)
+
+## 報告整合公開資訊
+
+<small>範例：[探討物件尺寸調節物件方向效應之機制](https://psyarxiv.com/a3vwc/)</small>
+
+![](CKZ2019app.png)
+
+## 報告數據可重製
+
+<div id="left">
+![](rmarkdown.png)
+</div>
+
+<div id="right">
+![](Repro.png){width=60%}
+</div>
+
+#
+
+|![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/491px-Open_Access_logo_PLoS_transparent.svg.png){width=70%}|
+|:---:|
+
+----
+
+- (未)公開的OSF備份計劃或報告文件，可直接於[OSFpreprints](https://osf.io/preprints/)公開。
+
+- 逐次更新，確保計劃到報告的累進紀錄一致。
+
+- **建置平台易，養成習慣難**，需要整個學術界同意為規範(Norms)。
+
+# 
+
+|![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)|![](PRO.png)|
+|---|---|
+
+([研究透明宣言](http://www.researchtransparency.org) )
+
+----
+
+![](https://www.episciences.org/public/schemaepisciences_eng.PNG){width=70%}
+
+<small>來源：[episciences.org](https://www.episciences.org/)</small>
+
+# 如何開始?
+
+----
+
+|[![OSCU logo](https://utrechtopenscience.files.wordpress.com/2018/02/cropped-logo-oscu-v2.png){width=33%}](https://openscience-utrecht.com/)<br>[![reproducibilitea](ReproducibiliTeaLogo.jpeg){width=20%}](https://osf.io/3qrj6/)|[![CREP logo](CREP_Logo.png){width=60%}](https://osf.io/wfc6u/)<br>[![PSA logo](https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png){width=60%}](https://psysciacc.org/)|
+|:---:|:---:|
+|開放科學社群|協作平台|
+
+----
+
+![](Flyer_color.jpg){width=50%}
