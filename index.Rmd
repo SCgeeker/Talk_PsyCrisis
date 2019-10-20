@@ -13,6 +13,8 @@ output:
 css: style.css
 ---
 
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500&display=swap&subset=chinese-traditional" rel="stylesheet"> 
+
 # 心理科學再現危機與因應方案 {data-background="https://cdn.cos.io/media/images/amazon-research-3.original.jpg"}
 
 ## 自我介紹
@@ -82,9 +84,9 @@ Investigated by 3 universities
 ## Today I will talk about...
 
 - The Sin of Bias
-- The sin of Hidden Flexibility
-- The sin of Unreliability
-- The sin of Corruptibility
+- The Sin of Hidden Flexibility
+- The Sin of Unreliability
+- The Sin of Corruptibility
 
 # The Sin of Bias
 
@@ -106,6 +108,14 @@ Investigated by 3 universities
 ## The truth is ... [(Smaldino and McElreath, 2016)](https://doi.org/10.1098/rsos.160384)
 
 ![](https://royalsocietypublishing.org/cms/attachment/40d3231a-797c-4533-8111-1aeaed6c094f/rsos160384f01.jpg){width=150%}
+
+----
+
+[![](Sum_RC.png)](https://twitter.com/ignaziano/status/1105879627619360769)
+
+----
+
+![](RC_Other.png)
 
 # The sin of Hidden Flexibility
 
@@ -288,15 +298,17 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 |![](https://mfr.osf.io/export?url=https://osf.io/sxn73/?action=download%26mode=render%26direct%26public_file=True&initialWidth=808&childId=mfrIframe&parentTitle=OSF+%7C+preregistered_large_color.png&parentUrl=https://osf.io/sxn73/&format=2400x2400.jpeg)|
 |---|
 
-## 預先註冊與註冊報告
-
-![](Pu2019.png)
-
 ## 預先註冊是什麼？
 
 - 研究開始執行前註記備份日期的計劃文件。
 
 - 計劃文件詳述到完成發表前，執行細節的行動標準、紀錄方式及公開管道。
+![](RR1970.png){width=70%}
+
+
+## 預先註冊與註冊報告
+
+![](Pu2019.png)
 
 
 ## 接受註冊報告的期刊
@@ -358,24 +370,38 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 - **建置平台易，養成習慣難**，需要整個學術界同意為規範(Norms)。
 
+## OA在台灣學術界的推廣難題
+
+- 掠奪性期刊泛濫
+- 正確資訊不易觸及所有學者
+
+[![](Free_our_knowledge.png)](https://www.freeourknowledge.org/)
+
 # 
 
-|![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)|![](PRO.png)|
+|[![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)]((http://www.researchtransparency.org))|[![](PRO.png)](https://opennessinitiative.org/)|
 |---|---|
 
-([研究透明宣言](http://www.researchtransparency.org) )
-
-----
+## 正在運作的同儕評審系統
 
 ![](https://www.episciences.org/public/schemaepisciences_eng.PNG){width=70%}
 
 <small>來源：[episciences.org](https://www.episciences.org/)</small>
 
+## 正在萌芽的新創企業
+
+[![](PREreview_logo.png)](https://v2.prereview.org/)
+[![](Gigvvy-small-logo.png)](http://www.gigvvy.com/)
+
 # 如何開始?
+
+## 機構支持
+
+[![](Gilad_Feldman_Twitter.png)](https://twitter.com/giladfeldman)
 
 ----
 
-|[![OSCU logo](https://utrechtopenscience.files.wordpress.com/2018/02/cropped-logo-oscu-v2.png){width=33%}](https://openscience-utrecht.com/)<br>[![reproducibilitea](ReproducibiliTeaLogo.jpeg){width=20%}](https://osf.io/3qrj6/)|[![CREP logo](CREP_Logo.png){width=60%}](https://osf.io/wfc6u/)<br>[![PSA logo](https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png){width=60%}](https://psysciacc.org/)|
+|[![OSCU logo](OSCU_logo.png){width=33%}](https://openscience-utrecht.com/)<br>[![reproducibilitea](ReproducibiliTeaLogo.jpeg){width=20%}](https://osf.io/3qrj6/)|[![CREP logo](CREP_Logo.png){width=60%}](https://osf.io/wfc6u/)<br>[![PSA logo](https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png){width=60%}](https://psysciacc.org/)|
 |:---:|:---:|
 |開放科學社群|協作平台|
 
