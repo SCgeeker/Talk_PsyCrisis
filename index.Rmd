@@ -29,6 +29,25 @@ css: style.css
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>  <small>[Fork my slides on Github](https://github.com/SCgeeker/Talk_PsyCrisis)</small>
 
+## 先備測試：記下你知道意思的名詞
+
+- <small>Preprints</small>
+- <small>Open access</small>
+- <small>Creative Commons</small>
+- <small>Open, institutional or subject repositories</small>
+- <small>Open lab notebooks</small>
+- <small>Data and code deposition</small>
+- <small>Open science</small>
+- <small>Transparent reporting</small>
+- <small>Reproducibility</small>
+- <small>Preregistration</small>
+- <small>Declaration on Research Assessment (DORA)</small>
+
+
+來源:[eLIFE, Research Practice Survey](https://elifesciences.org/inside-elife/018e6b91/research-practice-survey-an-invitation-to-take-part)
+
+
+
 # 2011: First year of Replication Crisis in Psycho
 
 ## Diederik Stapel
@@ -354,7 +373,7 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 </div>
 
 <div id="right">
-![](Repro.png){width=60%}
+![](Repro.png){width=70%}
 </div>
 
 #
@@ -373,13 +392,13 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 ## OA在台灣學術界的推廣難題
 
 - 掠奪性期刊泛濫
-- 正確資訊不易觸及所有學者
+- 正確資訊不易觸及所有學者(各位知道[OA週](http://www.lac.org.tw/announcement/20191018-9851-659743409)嗎？)
 
 [![](Free_our_knowledge.png)](https://www.freeourknowledge.org/)
 
 # 
 
-|[![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)]((http://www.researchtransparency.org))|[![](PRO.png)](https://opennessinitiative.org/)|
+|[![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)](http://www.researchtransparency.org)|[![](PRO.png)](https://opennessinitiative.org/)|
 |---|---|
 
 ## 正在運作的同儕評審系統
